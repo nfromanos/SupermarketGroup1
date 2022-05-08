@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d820c6-3bab-4015-9677-85a2759e08ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClientType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductType.java" afterDir="false" />
-    </list>
+    <list default="true" id="39d820c6-3bab-4015-9677-85a2759e08ae" name="Changes" comment="Trabalho grupo 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651889939947</updated>
     </task>
+    <task id="LOCAL-00001" summary="Trabalho grupo 1">
+      <created>1651976996849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651976996849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +76,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trabalho grupo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalho grupo 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
